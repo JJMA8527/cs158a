@@ -134,7 +134,7 @@ def config_setup():
     except (IndexError,ValueError):
         node_ind = 0
     
-    with open('test_config.txt','r') as f:
+    with open('config.txt','r') as f:
         lines = [line.strip() for line in f if line.strip()]
         self_ip, self_port = lines[node_ind].split(',')
         other_ind = (node_ind+1) % len(lines)
