@@ -1,0 +1,15 @@
+Received: Uuid= 552057fd-524b-49c5-b30a-d6e2a9a6c602, Flag= 0, greater, 0
+
+Sent: uuid=552057fd-524b-49c5-b30a-d6e2a9a6c602, flag=0
+
+Received: Uuid= 552057fd-524b-49c5-b30a-d6e2a9a6c602, Flag= 1, greater, 0
+
+Sent: uuid=552057fd-524b-49c5-b30a-d6e2a9a6c602, flag=1
+
+Sent: uuid=2ba0a1fb-c2d6-46dc-8f17-6eec2804ac0a, flag=0
+
+Received: Uuid= 238bf78a-bd3d-49d5-8fbd-869e81401e4a, Flag= 0, less, 1
+Leader is decided to 552057fd-524b-49c5-b30a-d6e2a9a6c602
+
+Ignored: 238bf78a-bd3d-49d5-8fbd-869e81401e4a
+
